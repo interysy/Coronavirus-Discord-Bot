@@ -1,4 +1,4 @@
-<h1 align  = "center" >CoronavirusDiscordBot </h1> 
+<h1 align  = "center" >Coronavirus-Discord-Bot </h1> 
  
 <p> Project built in the summer of 2021, with the intent to allow easy access to recent coronavirus numbers without leaving the messaging application. This bot was made using Python, Discord Py Library, BeautifulSoup 4 and Selenium. Alongside displaying values per country, it also allows server shortlising up to 10 countries and changing command prefix</p> 
   
